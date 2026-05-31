@@ -6,7 +6,7 @@ I’m a Computer Science student specializing in Data Science who enjoys buildin
 
 My interests currently revolve around Generative AI, backend systems, intelligent workflows, and automation. I enjoy working on the logic behind products, designing how systems should work, and figuring things out while building.
 
-Over time, I’ve worked on projects ranging from AI-powered safety applications and compliance solutions to sustainability-focused analytics tools. I’m especially drawn towards startup environments where learning, experimenting, and shipping things quickly matter.
+Over time, I’ve worked on projects ranging from AI-powered safety applications and compliance solutions to sustainability-focused analytics tools. I’m especially drawn towards startup environments where curiosity, fast learning, and building things from scratch matter.
 
 Outside tech, I’m deeply involved in public speaking, debating, and community initiatives — experiences that shaped how I think about communication, leadership, and building for people, not just users.
 
