@@ -1,6 +1,6 @@
 # Hello there, I'm Manan
 
-#*Turning curiosity into projects and ideas into products.*
+# *Turning curiosity into projects and ideas into products.*
 
 I’m a Computer Science student specializing in Data Science who enjoys building products that solve practical problems. Most of the things I work on start with a simple question: *“Would this genuinely help someone?”* — and then I try building around that.
 
