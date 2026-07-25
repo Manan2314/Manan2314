@@ -2,19 +2,15 @@
 
 # *Turning curiosity into projects and ideas into products.*
 
-I’m a Computer Science student specializing in Data Science who enjoys building products that solve practical problems. Most of the things I work on start with a simple question: *“Would this genuinely help someone?”* — and then I try building around that.
+Hiiiiiii! I’m a Computer Science student specialising in Data Science — usually somewhere between building AI projects, overthinking product ideas, and trying to figure out how things actually work.
 
-My interests currently revolve around Generative AI, backend systems, intelligent workflows, and automation. I enjoy working on the logic behind products, designing how systems should work, and figuring things out while building.
+I’m interested in Generative AI, applied AI/ML, automation, backend systems, and product building. I like taking an idea, breaking it down, and seeing if I can turn it into something that actually works (and occasionally figuring out why it doesn't).
 
-Over time, I’ve worked on projects ranging from AI-powered safety applications and compliance solutions to sustainability-focused analytics tools. I’m especially drawn towards startup environments where curiosity, fast learning, and building things from scratch matter.
+I’ve built projects across AI safety, compliance, sustainability analytics, and GenAI, and have also participated in hackathons and collaborative problem-solving experiences.
 
-Outside tech, I’m deeply involved in public speaking, debating, and community initiatives — experiences that shaped how I think about communication, leadership, and building for people, not just users.
+Outside tech, you’ll probably find me debating, speaking, or getting involved in community initiatives.
 
-Currently:
+Still learning, still building, and probably starting another project before finishing the last one.
+Always open to interesting ideas, collaborations, and conversations around AI, products, and startups.
 
-* Building AI and automation-focused projects
-* Exploring backend systems and product thinking
-* Looking for opportunities to learn, collaborate, and build impactful products
-* Actively participating in hackathons and startup ecosystems
 
-Always open to conversations around AI, product building, startups, and interesting ideas!
